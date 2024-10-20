@@ -1,4 +1,4 @@
-# Rick and Mooty
+# Rick and Mooty - https://rickandmooty.netlify.app/
 
 ## Used Tools
 
